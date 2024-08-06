@@ -1,6 +1,3 @@
-Below is a README file in academic English for your project "Approximate Vector Set Search: A Bio-Inspired Approach for High-Dimensional Spaces." The README is structured in Markdown format for easy integration into your project's repository.
-
-```markdown
 # Approximate Vector Set Search: A Bio-Inspired Approach for High-Dimensional Spaces
 
 ## Overview
@@ -63,7 +60,7 @@ The repository is organized into several key directories, each containing specif
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BioVSS.git
+   git clone https://github.com/CS-BruceChen/biovss.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -91,7 +88,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Acknowledgments
 This work was supported by [Your Funding Source]. We thank our collaborators and contributors for their valuable input.
-
-```
-
-Please replace the placeholders such as `https://github.com/yourusername/BioVSS.git` and `[Your Funding Source]` with the appropriate information. This README provides a comprehensive overview and guide for your project, ensuring that users and collaborators can easily understand and utilize your work.
