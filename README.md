@@ -54,7 +54,7 @@ The repository is organized into several key directories, each containing specif
 ## Getting Started
 
 ### Prerequisites
-- Python 3.x
+- Python 3.10
 - Required Python libraries (specified in `requirements.txt`)
 
 ### Installation
