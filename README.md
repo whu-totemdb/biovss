@@ -58,6 +58,8 @@ The repository is organized into several key directories, each containing specif
 - Required Python libraries (specified in `requirements.txt`)
 
 ### Installation
+First download all the data and compile the C++ code.
+second, complete all data preparation using BioHash.
 1. Clone the repository:
    ```bash
    git clone https://github.com/CS-BruceChen/biovss.git
