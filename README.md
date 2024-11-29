@@ -4,6 +4,8 @@
 
 This project, "Approximate Vector Set Search: A Bio-Inspired Approach for High-Dimensional Spaces," presents a novel method inspired by biological processes to address the challenges of searching in high-dimensional vector spaces. The approach leverages advanced computational techniques to improve the efficiency and accuracy of approximate vector set searches, a critical task in various domains such as bioinformatics, machine learning, and data mining.
 
+CS vector sample dataset ([Link](https://pan.quark.cn/s/eae45745d099), Access Code: Wzsb). Additional data available from public sources.
+
 ## Repository Structure
 
 The repository is organized into several key directories, each containing specific components of the project:
