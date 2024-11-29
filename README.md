@@ -104,8 +104,6 @@ If you use our code for research work, please cite our paper as below:
 
   booktitle={Proceedings of the 41th International Conference on Data Engineering},
 
-  series={ICDE '25},
-
   year={2025},
 
   publisher={IEEE},
