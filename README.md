@@ -90,5 +90,28 @@ Contributions are welcome. Please submit a pull request or contact the authors f
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Acknowledgments
-This work was supported by [Your Funding Source]. We thank our collaborators and contributors for their valuable input.
+## Citation
+
+If you use our code for research work, please cite our paper as below:
+
+```
+
+@inproceedings{li2025approximate,
+
+  title={Approximate Vector Set Search: A Bio-Inspired Approach for High-Dimensional Spaces},
+
+  author={Li, Yiqi and Wang, Sheng and Chen, Zhiyu and Chen, Shangfeng and Peng, Zhiyong},
+
+  booktitle={Proceedings of the 41th International Conference on Data Engineering},
+
+  series={ICDE '25},
+
+  year={2025},
+
+  publisher={IEEE},
+
+  organization={IEEE}
+
+}
+
+```
