@@ -70,10 +70,6 @@ second, complete all data preparation using BioHash.
    ```bash
    cd BioVSS
    ```
-3. Install the required Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ### Running the Algorithm
 To execute the main algorithm, run:
